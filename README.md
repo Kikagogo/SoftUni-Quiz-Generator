@@ -20,3 +20,5 @@ The output is a set of MS Word documents:
 
 The quiz generator takes a randomized subset of questions from each question group.
 It takes randomized subset of {maxAnswers+1} answers for each question: several wrong + 1 correct answer.
+
+ok
